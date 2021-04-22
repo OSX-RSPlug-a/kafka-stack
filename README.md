@@ -1,5 +1,5 @@
 # kafka-stack
-Kafka, kafka connect tests
+Kafka, kafka-connect tests
 
 
 Init project:
